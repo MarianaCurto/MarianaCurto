@@ -1,6 +1,12 @@
-                       Hi there, I'm Mariana 👋
 
-                        Full Stack Developer 👩‍💻
+<div>
+    <h1>
+      Hi there, I'm Mariana 👋
+    </h1>
+<h2>
+  
+    Full Stack Developer 👩‍💻
+</h2>
 
 
 
@@ -11,5 +17,9 @@
 <br/>
 <br/>
 📫 How to reach me mariana.crt@gmail.com 
+  
+</div>
+
+
 
 
