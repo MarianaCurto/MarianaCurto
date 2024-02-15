@@ -10,7 +10,7 @@
 
 
 
-💻 I'm currently working on freelance porjects.
+💻 I'm currently working on freelance projects.
 <br/>
 <br/>
 🌱 I'm currently improving all my skills, with special focus on learning TypeScript and MongoDB.
